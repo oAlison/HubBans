@@ -1,0 +1,23 @@
+main: HubBans.Main
+version: 1.0
+author: Álison
+description: Plugin de bans com integração twitter e discord totalmente configuravel
+name: HubBans
+commands:
+ ban:
+ ipban:
+ kick:
+ unban:
+ ipunban:
+ mute:
+ mutar:
+ unmute:
+ tempban:
+ tempmute:
+ warn:
+ reportes:
+ reportar:
+ verificar:
+ unwarn:
+ punir:
+ dupeip:
